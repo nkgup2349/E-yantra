@@ -2,7 +2,7 @@
 '''
 # Team ID:          1168
 # Theme:            Luminosity Drone
-# Author List:      Mohammad Amanullah 
+# Author List:      Mohammad Amanullah  , Asmita , Nikhil , Debardita 
 # Filename:         LD_1168_led_detection.py
 # Functions:        None
 # Global variables: None
